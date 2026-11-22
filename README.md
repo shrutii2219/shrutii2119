@@ -1,1 +1,19 @@
-# shrutii2119
+# Hi, I'm Shruti Chaturvedi 👋
+
+🎓 **1st Year BCA Student**  
+💻 Currently learning **C Programming, HTML, CSS, Bootstrap, and IoT**  
+🌱 Building foundational skills in programming logic, responsive web design, and basic hardware systems  
+
+---
+
+### 🛠️ What I'm Studying
+- **Programming:** C (loops, arrays, functions, pointers, structures)
+- **Web Development:** HTML5, CSS3, Bootstrap
+- **Hardware / Embedded:** Internet of Things (IoT) & basic sensors
+
+---
+
+### 📌 Current Goals
+- Practice C programming problems every week
+- Build clean, responsive web pages using HTML, CSS, and Bootstrap
+- Document my IoT lab work and small
