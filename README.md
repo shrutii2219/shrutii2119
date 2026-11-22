@@ -11,9 +11,4 @@
 - **Web Development:** HTML5, CSS3, Bootstrap
 - **Hardware / Embedded:** Internet of Things (IoT) & basic sensors
 
----
 
-### 📌 Current Goals
-- Practice C programming problems every week
-- Build clean, responsive web pages using HTML, CSS, and Bootstrap
-- Document my IoT lab work and small
