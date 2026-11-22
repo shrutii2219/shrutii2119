@@ -1,6 +1,7 @@
-# Hi, I'm Shruti Chaturvedi 👋
+## Hi, I'm Shruti Chaturvedi 👋
 
-🎓 **1st Year BCA Student**  
-💻 Currently learning **C Programming, HTML, CSS, Bootstrap, and IoT**  
-🌱 Building foundational skills in programming logic, responsive web design, and basic hardware systems 
+BCA 1st-Year Student | Learning C Programming
 
+- **Current Focus:** C language fundamentals, logic building, and problem solving
+
+Building my foundation one commit at a time.
